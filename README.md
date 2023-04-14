@@ -5,7 +5,7 @@ This is a simple to-do list website created as part of my learning journey in we
 Demo
 https://to-do-listt1.netlify.app/
 
-Features
+Features:
 Add tasks: Enter a new task in the input field and click the "+" button to add it to the list.
 Edit tasks: Click on a task to edit its content. Click the checkmark button to save the changes, or the X button to cancel.
 Delete tasks: Click the trash can button to delete a task from the list.
