@@ -1,17 +1,18 @@
 # To-Do-List
-To-Do List Website
-This is a simple to-do list website created as part of my learning journey in web development. The website allows users to add, edit, and delete tasks, and stores them in the browser's local storage. The website is built using HTML, CSS, and JavaScript only, with no external libraries or frameworks.
+TO-DO-LIST
+THIS IS A SIMPLE TO-DO LIST WEBSITE CREATED AS PART OF MY LEARNING JOURNEY IN WEB DEVELOPMENT. THE WEBSITE ALLOWS USERS TO ADD, EDIT, AND DELETE TASKS, AND STORES THEM IN THE BROWSER'S LOCAL STORAGE. THE WEBSITE IS BUILT USING HTML, CSS, AND JAVASCRIPT ONLY, WITH NO EXTERNAL LIBRARIES OR FRAMEWORKS. 
 
-Demo
-https://to-do-listt1.netlify.app/
+DEMO
+HTTPS://TO-DO-LISTT1. NETLIFY. APP/
 
-Features:
-Add tasks: Enter a new task in the input field and click the "+" button to add it to the list.
-Edit tasks: Click on a task to edit its content. Click the checkmark button to save the changes, or the X button to cancel.
-Delete tasks: Click the trash can button to delete a task from the list.
-Save tasks: The website uses the browser's local storage to save the tasks, so they persist even after closing the website or refreshing the page.
-Responsive design: The website is designed to be mobile-friendly and adapts to different screen sizes.
-How to run the website
-Clone this repository to your local machine using git clone https://github.com/yourusername/to-do-list-website.git
-Open the index.html file in your web browser
-Enjoy using the website!
+FEATURES:
+ADD TASKS: ENTER A NEW TASK IN THE INPUT FIELD AND CLICK THE "+" BUTTON TO ADD IT TO THE LIST. 
+EDIT TASKS: CLICK ON A TASK TO EDIT ITS CONTENT. CLICK THE CHECKMARK BUTTON TO SAVE THE CHANGES, OR THE X BUTTON TO CANCEL. 
+DELETE TASKS: CLICK THE TRASH CAN BUTTON TO DELETE A TASK FROM THE LIST. 
+SAVE TASKS: THE WEBSITE USES THE BROWSER'S LOCAL STORAGE TO SAVE THE TASKS, SO THEY PERSIST EVEN AFTER CLOSING THE WEBSITE OR REFRESHING THE PAGE. 
+RESPONSIVE DESIGN: THE WEBSITE IS DESIGNED TO BE MOBILE-FRIENDLY AND ADAPTS TO DIFFERENT SCREEN SIZES. 
+HOW TO RUN THE WEBSITE
+CLONE THIS REPOSITORY TO YOUR LOCAL MACHINE USING GIT CLONE HTTPS://GITHUB. COM/YOURUSERNAME/TO-DO-LIST-WEBSITE. GIT
+OPEN THE INDEX. HTML FILE IN YOUR WEB BROWSER
+ENJOY USING THE WEBSITE! 
+E :)
